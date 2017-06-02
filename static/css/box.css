@@ -99,11 +99,11 @@
 .c-333{color:#333;}
 .c-8c{color:#8c8c8c;}
 .c-9{color:#999;}
-.c-7d{color:#7d7d7d;}
+.c-7d{color:#7d7d7d;}    /*disable,disable-click*/
 .c-42{color:#424242;}
 .c-71{color:#717171;}
 .c-ff{color:#FF7F2A;}
-.c-ff6405{color:#ff6405;}
+.c-ff6405{color:#ff6405;} /*泰康云彩公众号基础色*/
 .c-7e{color:#7e4d2a;}
 .c-f7{color:#F71616!important;}
 .c-d9{color:#d92717;}
@@ -114,6 +114,7 @@
 .bg-f2{background-color: #F2F2F2;}
 .bg-b4{  background-color:#b4b4b4!important;}
 .bg-a1{background-color:#a1a1a1;}
+.bg-7d{background-color:#7d7d7d!important;}  /*disable,disable-click*/
 .bg-ff6405{background-color:#ff6405;}
 .lh-15{line-height:1.5;}
 .lh-20{line-height: 2.0;}
