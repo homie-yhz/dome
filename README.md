@@ -1,2 +1,0 @@
-# homie.github.io
-nothing
